@@ -25,7 +25,7 @@ SECRET_KEY = '-wrv$b3!n%4+!$3y_=i1w7p1cu^t+%9+aa^+wgaxgeu(j38r8t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['anilpdv.herokuapp.com']
 
 
 # Application definition
